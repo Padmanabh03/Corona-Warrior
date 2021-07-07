@@ -2,4 +2,4 @@
 # Corona-Warrior
 Endless runner using Unity2d.
 
-link:https://padmanabh.itch.io/corona-warrior
+link: https://padmanabh.itch.io/corona-warrior
